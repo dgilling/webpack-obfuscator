@@ -14,7 +14,7 @@
   ],
   "main": "index.js",
   "dependencies": {
-    "javascript-obfuscator": "0.18.0",
+    "javascript-obfuscator": "git+https://github.com/dgilling/javascript-obfuscator.git#0.18.1-patch1",
     "multi-stage-sourcemap": "0.2.1",
     "multimatch": "2.1.0"
   },
